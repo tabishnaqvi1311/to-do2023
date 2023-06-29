@@ -6,7 +6,7 @@
 
 [] Learn TypeScript
 
-[] DSA in C++ - 40% progress
+[] DSA C++ - 40% progress
 
 [] Learn Svelte
 
@@ -22,6 +22,8 @@
 
 [] Start DevOps in 2nd Year
 
-[x] Learn Threejs
+[x] Learn Threejs - in progress
 
-[] Build 1 game in C++
+[] Build 1 game/project in C++
+
+[] Improve backend - in progress
