@@ -1,29 +1,29 @@
-[] Learn React and build 5 react apps
+- [x] Learn React and build 5 react apps
 
-[] Master JS + CSS
+- [x] Master JS + CSS
 
-[x] Learn Tailwind
+- [x] Learn Tailwind
 
-[] Learn TypeScript
+- [x] Learn TypeScript
 
-[] DSA C++ - 40% progress
+- [] DSA C++ - 40% progress
 
-[] Learn Svelte
+- [] Learn Svelte
 
-[] Learn Django + Flask (and build 5 apps)
+- [] Learn Django + Flask (and build 5 apps)
 
-[x] Learn Flutter and build 1 app
+- [x] Learn Flutter and build 1 app
 
-[] Learn ReactNative
+- [] Learn ReactNative
 
-[] Master MERN - 50%
+- [x] Master MERN - 50%
 
-[x] Build 2 fully responsive MERN apps and deploy it
+- [x] Build 2 fully responsive MERN apps and deploy it
 
-[] Start DevOps in 2nd Year
+ -[x] Start DevOps in 2nd Year
 
-[x] Learn Threejs - in progress
+- [x] Learn Threejs - in progress
 
-[] Build 1 game/project in C++
+- [] Build 1 game/project in C++
 
-[] Improve backend - in progress
+- [-] Improve backend - in progress
