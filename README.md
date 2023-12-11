@@ -6,7 +6,7 @@
 
 - [x] Learn TypeScript
 
-- [] DSA C++ - 40% progress
+- [-] DSA C++ - 70% progress
 
 - [] Learn Svelte
 
@@ -14,16 +14,16 @@
 
 - [x] Learn Flutter and build 1 app
 
-- [] Learn ReactNative
+- [x] Learn ReactNative
 
-- [x] Master MERN - 50%
+- [x] Master MERN - 90%
 
 - [x] Build 2 fully responsive MERN apps and deploy it
 
- -[x] Start DevOps in 2nd Year
+- [x] Start DevOps in 2nd Year
 
-- [x] Learn Threejs - in progress
+- [x] Learn Threejs
 
-- [] Build 1 game/project in C++
+- [x] Build 1 game
 
-- [-] Improve backend - in progress
+- [x] Improve backend
